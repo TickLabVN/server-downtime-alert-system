@@ -2,7 +2,7 @@
 
 ## Description
 
-This application helps us monitor status of https://ticklab.vn and send alerts if somethings went wrong.
+This application helps us monitor the status of https://ticklab.vn and send alerts if something goes wrong.
 
 ## What you will receive
 
@@ -13,12 +13,12 @@ This application helps us monitor status of https://ticklab.vn and send alerts i
 ## Key Features
 
 - Basic Authentication
-- Display the current server status (online/offline) & status checks in overall in a period of time.
+- Display the current server status (online/offline) & status checks overall in a period.
 - Manage the schedule to **fetch** server status updates.
-- Modify system behaviors, including health check rules, alert templates ...
-- Send notification to stakeholders when a server goes down, via Gmail & Discord 
+- Modify system behaviors, including health check rules, and alert templates ...
+- Send notifications to stakeholders when a server goes down, via Gmail & Discord 
 
 ## Requirements
 
-This is an **two-month** challenge. Abount technology, feel free to choose technologies you are most comfortable with.
+This is a **two-month** challenge. About technology, feel free to choose the technologies you are most comfortable with.
 
