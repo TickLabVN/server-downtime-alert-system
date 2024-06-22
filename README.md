@@ -25,5 +25,5 @@
 **What You Can Receive:**
 
 - **Back-end Development:** Learn to create APIs, handle data with databases, and interact with third-party APIs.
-- **Resume Building:** Gain valuable experience for your resume by creating a project for a real requirement.
+- **Resume Building:** Gain experience for your resume by creating a project for a real requirement.
 - **Mentorship:** Find a mentor to provide guidance and support.
